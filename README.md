@@ -1,5 +1,7 @@
 # ETL-with-IICS
-This Informatica project involves Extracting, Transforming, and Loading (ETL) data from two CSV files: Churn_Modelling2.csv and Churn_Modelling3.csv. The objective is to perform various analyses on the data and using IICS.
+This Informatica project involves Extracting, Transforming, and Loading (ETL) data from two CSV files: Churn_Modelling2.csv and Churn_Modelling3.csv. The objective is to perform various analyses on the data using IICS.
+
+
 1.Calculate the sum of balances for male and female customers.
 ![Screenshot 2025-02-26 234641](https://github.com/user-attachments/assets/e563cf3e-84f3-492e-9b29-b5c337edbd3c)
 
